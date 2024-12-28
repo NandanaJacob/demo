@@ -1,2 +1,2 @@
 nandana
-Its a merge session
+git is a vcs
